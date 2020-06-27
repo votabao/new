@@ -1,3 +1,3 @@
 # new
 
-vo ta long di ăn cơm
+vo ta long di hcoj bai master
